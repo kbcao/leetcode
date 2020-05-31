@@ -20,6 +20,7 @@ class Solution:
         #     cur_h = h
         # return res
 
+        # 根据题解优化后的用栈的版本
         heights.append(0)
         st = [(0, 0)]
         res = 0
