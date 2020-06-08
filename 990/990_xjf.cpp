@@ -1,3 +1,4 @@
+// 并查集
 class Solution {
 public:
     char parent['z' + 7];

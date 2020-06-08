@@ -1,3 +1,4 @@
+# DFS 找连通分量
 class Solution:
     var_t, var_f, tags = None, None, None
     def equationsPossible(self, equations: List[str]) -> bool:
